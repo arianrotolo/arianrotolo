@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 👯 I’m looking to collaborate on **nice projects**
+- 👯 I’m looking to collaborate on **Nice Projects**
 
 
 <h3 align="left">Languages and Tools:</h3>
