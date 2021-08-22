@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arianrotolo
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m working on Web Development
 - 💞️ I’m looking to collaborate on nice projects
 
 <!---
