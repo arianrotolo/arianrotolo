@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arian</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Web Development**
-
 - 🌱 I’m currently learning **Computer Science**
+
+- 🔭 I’m currently working on **Web Development**
 
 - 👯 I’m looking to collaborate on **Nice Projects**
 
